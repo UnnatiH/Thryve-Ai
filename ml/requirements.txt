@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+PyPDF2
+fpdf
+python-dotenv
+requests
+sqlite3
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+faiss-cpu
